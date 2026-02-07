@@ -1,11 +1,11 @@
-/nbcstreaming\.[^.]+\.omtrdc\.net/
-@@/g[^.]+-vod-us-cmaf-prd-mc.cdn.peacocktv.com/$important
 /g[^.]+-vod-us-cmaf-prd-[^.]+.cdn.peacocktv.com/
+/g\d+-vod-us-cmaf-prd-[a-z]+\.cdn\.peacocktv\.com/
+/nbcstreaming\.[^.]+\.omtrdc\.net/
+@@/g001-vod-us-cmaf-prd-[^.]+.cdn.peacocktv.com/$important
+@@/g[^.]+-vod-us-cmaf-prd-mc.cdn.peacocktv.com/$important
+@@/g\d+-vod-us-cmaf-prd-mc\.cdn\.peacocktv\.com/
+@@||g008-vod-us-cmaf-prd-ak-a122.cdn.peacocktv.com^$important
 @@||g008-vod-us-cmaf-prd-ak.cdn.peacocktv.com^$important
 @@||g008-vod-us-cmaf-prd-cf.cdn.peacocktv.com^$important
-@@||g008-vod-us-cmaf-prd-ak-a122.cdn.peacocktv.com^$important
-@@/g001-vod-us-cmaf-prd-[^.]+.cdn.peacocktv.com/$important
 ||g001-sle-us-cmaf-prd-cf.cdn.peacocktv.com^
 ||g008-sle-us-cmaf-prd-cf.cdn.peacocktv.com^
-@@/g\d+-vod-us-cmaf-prd-mc\.cdn\.peacocktv\.com/
-/g\d+-vod-us-cmaf-prd-[a-z]+\.cdn\.peacocktv\.com/
